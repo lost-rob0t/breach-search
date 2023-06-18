@@ -1,0 +1,74 @@
+[
+    {
+        "filePath": "test.txt",
+        "mode": "csv",
+        "emailField": "email",
+        "usernameField": "username",
+        "passwordField": "password",
+        "dbPath": "1.db",
+        "errorFile": "errors.log",
+        "imported": true,
+        "sep": ":",
+        "total": 0
+    },
+    {
+        "filePath": "test-combo.txt",
+        "mode": "combo",
+        "emailField": "email",
+        "usernameField": "username",
+        "passwordField": "password",
+        "dbPath": "1.db",
+        "errorFile": "errors.log",
+        "imported": true,
+        "sep": ":",
+        "total": 0
+    },
+    {
+        "filePath": "files/edu1.txt",
+        "mode": "combo",
+        "emailField": "email",
+        "usernameField": "username",
+        "passwordField": "password",
+        "dbPath": "files/edu.db",
+        "errorFile": "edu.log",
+        "imported": true,
+        "sep": ":",
+        "total": 0
+    },
+    {
+        "filePath": "files/edu2.txt",
+        "mode": "combo",
+        "emailField": "email",
+        "usernameField": "username",
+        "passwordField": "password",
+        "dbPath": "files/edu.db",
+        "errorFile": "edu.log",
+        "imported": true,
+        "sep": ":",
+        "total": 0
+    },
+    {
+        "filePath": "files/eu.txt",
+        "mode": "combo",
+        "emailField": "email",
+        "usernameField": "username",
+        "passwordField": "password",
+        "dbPath": "files/eu2.db",
+        "errorFile": "files/log/eu2.log",
+        "imported": true,
+        "sep": ":",
+        "total": 58621
+    },
+    {
+        "filePath": "files/lol.txt",
+        "mode": "combo",
+        "emailField": "email",
+        "usernameField": "username",
+        "passwordField": "password",
+        "dbPath": "files/lol.db",
+        "errorFile": "files/log/lol.log",
+        "imported": true,
+        "sep": ":",
+        "total": 8231
+    }
+]
