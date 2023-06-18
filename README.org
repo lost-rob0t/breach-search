@@ -1,0 +1,36 @@
+#+title: Readme
+
+* BreachSearch
+This was my 3rd gen of databreach searching. its very fast.
+
+if it works it works, its old code i uploaded.
+
+The next time i do this will be with lmdb for even faster sorting and search.
+
+** install
+
+with nimble
+
+#+begin_src shell
+nimble install https://github.com/lost-rob0t/breach-search.git
+#+end_src
+
+From git
+#+begin_src shell
+git clone https://github.com/lost-rob0t/breach-search.git
+cd breach-search
+nimble install
+#+end_src
+
+
+** usage
+
+Check the config for how to use it
+Make sure to set the ~imported~ field to false, it will ignore sources that have been imported.
+#+begin_src shell
+BreachSearch --config config.json
+#+end_src
+
+
+I dont think i added searching?
+i can add it if people open issues
